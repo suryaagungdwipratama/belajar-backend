@@ -1,0 +1,27 @@
+# Dependency
+node_modules/
+
+# Environment dan rahasia
+.env
+.env.*
+!.env.example
+
+# Log
+logs/
+*.log
+npm-debug.log*
+
+# Build
+dist/
+build/
+coverage/
+
+# Database lokal
+*.sqlite
+*.db
+
+# Editor dan sistem operasi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
