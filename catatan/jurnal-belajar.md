@@ -23,3 +23,12 @@ Tulis beberapa baris setiap selesai belajar. Tidak perlu panjang, yang penting j
 - **Yang saya buat / commit:** membuat repository `belajar-backend`.
 - **Yang masih membingungkan:** belum ada, baru mulai.
 - **Rencana berikutnya:** pasang Node.js dan Git, lalu mulai dasar JavaScript.
+
+### 2026-10-17 | Fase 1 | Variabel dan tipe data
+
+- **Yang saya pelajari:** const dan let, template literal, typeof
+- **Yang saya buat / commit:** latihan-variabel
+- **Yang masih membingungkan:**
+  - Tulisan `${nama}` tampil apa adanya, bukan isi variabelnya. Ternyata saya memakai tanda kutip biasa, padahal template literal harus memakai backtick.
+  - Setelah `semester = 4`, kedua `console.log` menampilkan 4. Ternyata JavaScript membaca kode dari atas ke bawah, jadi `semester = 4` sudah dijalankan sebelum kedua `console.log`. Supaya perubahan 3 ke 4 terlihat, `semester = 4` harus ditaruh di antara dua `console.log`.
+- **Rencana berikutnya:** latihan percabangan if/else
