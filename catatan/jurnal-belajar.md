@@ -32,3 +32,16 @@ Tulis beberapa baris setiap selesai belajar. Tidak perlu panjang, yang penting j
   - Tulisan `${nama}` tampil apa adanya, bukan isi variabelnya. Ternyata saya memakai tanda kutip biasa, padahal template literal harus memakai backtick.
   - Setelah `semester = 4`, kedua `console.log` menampilkan 4. Ternyata JavaScript membaca kode dari atas ke bawah, jadi `semester = 4` sudah dijalankan sebelum kedua `console.log`. Supaya perubahan 3 ke 4 terlihat, `semester = 4` harus ditaruh di antara dua `console.log`.
 - **Rencana berikutnya:** latihan percabangan if/else
+
+### 2026-10-18 | Fase 1 | Percabangan (if / else if / else)
+
+* Yang saya pelajari:
+  - Operator perbandingan: `>` lebih besar, `<` lebih kecil, `>=` lebih besar atau sama dengan, `<=` lebih kecil atau sama dengan, `===` sama dengan
+  - Cara kerja `if`, `else if`, dan `else`
+  - `else if` dicek berurutan dari atas, berhenti begitu ada satu kondisi yang benar
+* Yang saya buat / commit:
+  - latihan-percabangan: cek umur untuk KTP dan huruf mutu, semua angka batas sudah diuji
+* Yang masih membingungkan:
+  - Tadinya bingung alur pintu 1, 2, 3, sekarang paham karena JavaScript membaca dari atas dan berhenti di kondisi pertama yang benar
+* Rencana berikutnya:
+  - Perulangan (loop)
