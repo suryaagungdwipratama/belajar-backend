@@ -48,8 +48,6 @@ Tulis beberapa baris setiap selesai belajar. Tidak perlu panjang, yang penting j
 
 ### 2026-10-19 | Fase 1 | Perulangan (for)
 
-2026-10-19 | Fase 1 | Perulangan (for)
-
 * Yang saya pelajari:
   - `for` punya tiga bagian: mulai (`let i = 1`), syarat lanjut (`i <= 10`), dan langkah (`i++`)
   - Beda `<` dan `<=` di syarat loop: `i < 5` berhenti sebelum 5, `i <= 5` ikut mencetak 5
