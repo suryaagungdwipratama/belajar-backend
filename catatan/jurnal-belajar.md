@@ -45,3 +45,19 @@ Tulis beberapa baris setiap selesai belajar. Tidak perlu panjang, yang penting j
   - Tadinya bingung alur pintu 1, 2, 3, sekarang paham karena JavaScript membaca dari atas dan berhenti di kondisi pertama yang benar
 * Rencana berikutnya:
   - Perulangan (loop)
+
+### 2026-10-19 | Fase 1 | Perulangan (for)
+
+2026-10-19 | Fase 1 | Perulangan (for)
+
+* Yang saya pelajari:
+  - `for` punya tiga bagian: mulai (`let i = 1`), syarat lanjut (`i <= 10`), dan langkah (`i++`)
+  - Beda `<` dan `<=` di syarat loop: `i < 5` berhenti sebelum 5, `i <= 5` ikut mencetak 5
+  - Cara menjumlahkan dengan loop: `total` dibuat sebelum loop, ditambah `i` di tiap putaran
+    (i=1: 0+1=1, i=2: 1+2=3, i=3: 3+3=6)
+* Yang saya buat / commit:
+  - latihan-perulangan: cetak angka 1 sampai 10 dan menjumlahkan 1 sampai 10
+* Yang masih membingungkan:
+  - Tidak ada, alur syntax `for` sudah paham
+* Rencana berikutnya:
+  - Function
